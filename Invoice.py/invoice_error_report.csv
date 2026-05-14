@@ -1,0 +1,2 @@
+file_name,file_path,issue_type,detail
+Invoice.pdf,C:\Users\poola\Downloads\Python Projects\Invoice.py\Invoice.pdf,missing_field,Missing required field: subtotal

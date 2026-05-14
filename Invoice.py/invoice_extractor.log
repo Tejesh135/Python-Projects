@@ -1,0 +1,5 @@
+2026-05-10 23:35:07 | INFO | invoice_extractor | Found 1 PDF file(s). Starting extraction.
+2026-05-10 23:35:07 | INFO | invoice_extractor | Processing: Invoice.pdf
+2026-05-10 23:35:07 | INFO | invoice_extractor | Completed. Valid invoices: 0 | Invoices with anomalies: 1
+2026-05-10 23:35:07 | INFO | invoice_extractor | Cleaned CSV: cleaned_invoices.csv
+2026-05-10 23:35:07 | INFO | invoice_extractor | Error report: invoice_error_report.csv

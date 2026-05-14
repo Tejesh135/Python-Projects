@@ -1,0 +1,2 @@
+file_name,file_path,vendor_name,invoice_date,subtotal,tax,total,anomaly_count,anomalies
+Invoice.pdf,C:\Users\poola\Downloads\Python Projects\Invoice.py\Invoice.pdf,33446736576357 10/05/2026 25/05/2026,2026-10-05,,63292.32,424916.32,1,Missing required field: subtotal
